@@ -5,26 +5,25 @@
 
 > Building my first Capstone project to apply the concepts learned in order to enhance my skills in HTML, CSS & JavaScript.
 
-![screenshot](./assets/img/Screenshot-desktop.png)
+![screenshot](./images/Screenshotdesktop.png)
 
-![screenshot](./assets/img/Screenshot-mobile.png)
+![screenshot](./images/Screenshotphone.png)
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
 - HTML
 - JavaScript
 - CSS
 
 ## Live Demo
 
-[Live Demo Link](https://butlermuwo.github.io/TalentDAO)
+[Live Demo Link](https://butlermuwo.github.io/TalentDAO/)
 
 ## Demo Video Link
 
-[Watch Demo](https://www.loom.com/share/a8a80561e3474f7a9e21b2140f9e4d65)
+[Watch Demo](https://www.loom.com/share/355c3125f7764318bd606f9b2330eb8d)
 
 ## Getting Started
 
